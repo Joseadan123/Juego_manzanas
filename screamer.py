@@ -6,8 +6,7 @@ class Screamer:
         self.ventana = ventana
         self.ANCHO = ancho
         self.ALTO = alto
-
-        # Cargar imágenes
+        
         self.imagenes = [pygame.image.load("assets/image.png")]
         self.imagenes = [pygame.transform.scale(img, (self.ANCHO, self.ALTO)) for img in self.imagenes]
 

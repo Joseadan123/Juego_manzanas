@@ -118,7 +118,6 @@ class Juego:
     def dibujar(self):
         self.ventana.blit(self.fondo, (0, 0))
         self.canasta.dibujar(self.ventana)
-        pygame.draw.rect(self.ventana, (255, 0, 0), self.canasta_hitbox, 2)  # rojo, borde de 2 px
 
         for m in self.manzanas:
             m.dibujar(self.ventana)
