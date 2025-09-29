@@ -27,7 +27,7 @@ La historia se centra en un tranquilo pueblo y un enorme árbol que guarda un ex
 
 ---
 
-## ⚙️ Requisitos y Ejecución
+## Requisitos y Ejecución
 
 Este juego está construido con el motor **Pygame** y el lenguaje **Python 3.x**. Está diseñado principalmente para **PC Windows**, siendo adaptable a Linux y MacOS.
 
