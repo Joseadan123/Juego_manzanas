@@ -2,7 +2,7 @@
 
 **El Manzano** es un emocionante juego de **Arcade** y **Terror** rápido y dinámico. Tu misión es recolectar valiosas **manzanas rojas** que caen de un árbol misterioso, mientras evitas las **manzanas verdes malditas**. ¡Pero cuidado! El árbol puede mostrar **horribles visiones (Scares)** para asustarte y desafiar tu concentración.
 
-El juego está dirigido a adolescentes y jóvenes (12-15 años) aficionados a juegos rápidos y con elementos de susto.
+El juego está dirigido a todo publico aficionados a juegos rápidos y con elementos de susto.
 
 ---
 
