@@ -6,7 +6,7 @@
 
 ---
 
-## 🎮 Acerca del Juego
+## Acerca del Juego
 
 [cite_start]**Género:** Arcade / Terror[cite: 13].
 
